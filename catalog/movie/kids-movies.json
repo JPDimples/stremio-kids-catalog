@@ -1,0 +1,1295 @@
+{
+ "metas": [
+  {
+   "id": "tt0053125",
+   "type": "movie",
+   "name": "North by Northwest",
+   "poster": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1959",
+   "genres": [
+    "Thriller",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0114709",
+   "type": "movie",
+   "name": "Toy Story",
+   "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1995",
+   "genres": [
+    "Family",
+    "Comedy",
+    "Animation"
+   ]
+  },
+  {
+   "id": "tt0382932",
+   "type": "movie",
+   "name": "Ratatouille",
+   "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0120917",
+   "type": "movie",
+   "name": "The Emperor's New Groove",
+   "poster": "https://image.tmdb.org/t/p/w500/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2000",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0120363",
+   "type": "movie",
+   "name": "Toy Story 2",
+   "poster": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0198781",
+   "type": "movie",
+   "name": "Monsters, Inc.",
+   "poster": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0266543",
+   "type": "movie",
+   "name": "Finding Nemo",
+   "poster": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0910970",
+   "type": "movie",
+   "name": "WALL\u00b7E",
+   "poster": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Animation",
+    "Family",
+    "Science Fiction"
+   ]
+  },
+  {
+   "id": "tt0110357",
+   "type": "movie",
+   "name": "The Lion King",
+   "poster": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1994",
+   "genres": [
+    "Animation",
+    "Family",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0101414",
+   "type": "movie",
+   "name": "Beauty and the Beast",
+   "poster": "https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1991",
+   "genres": [
+    "Romance",
+    "Family",
+    "Animation"
+   ]
+  },
+  {
+   "id": "tt0062622",
+   "type": "movie",
+   "name": "2001: A Space Odyssey",
+   "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1968",
+   "genres": [
+    "Science Fiction",
+    "Mystery",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt37752275",
+   "type": "movie",
+   "name": "Clash of the Thundermans",
+   "poster": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "TV Movie",
+    "Family",
+    "Action"
+   ]
+  },
+  {
+   "id": "tt0435761",
+   "type": "movie",
+   "name": "Toy Story 3",
+   "poster": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0096283",
+   "type": "movie",
+   "name": "My Neighbor Totoro",
+   "poster": "https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1988",
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0029583",
+   "type": "movie",
+   "name": "Snow White and the Seven Dwarfs",
+   "poster": "https://image.tmdb.org/t/p/w500/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1938",
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0103639",
+   "type": "movie",
+   "name": "Aladdin",
+   "poster": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1992",
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt1216475",
+   "type": "movie",
+   "name": "Cars 2",
+   "poster": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0780521",
+   "type": "movie",
+   "name": "The Princess and the Frog",
+   "poster": "https://image.tmdb.org/t/p/w500/yprv5PbnEksoVj2v6XEnDBg9joR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Animation",
+    "Romance",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0120762",
+   "type": "movie",
+   "name": "Mulan",
+   "poster": "https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1998",
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0032138",
+   "type": "movie",
+   "name": "The Wizard of Oz",
+   "poster": "https://image.tmdb.org/t/p/w500/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1939",
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt1979376",
+   "type": "movie",
+   "name": "Toy Story 4",
+   "poster": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Family",
+    "Comedy",
+    "Animation"
+   ]
+  },
+  {
+   "id": "tt3606752",
+   "type": "movie",
+   "name": "Cars 3",
+   "poster": "https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2017",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0119282",
+   "type": "movie",
+   "name": "Hercules",
+   "poster": "https://image.tmdb.org/t/p/w500/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1997",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0097814",
+   "type": "movie",
+   "name": "Kiki's Delivery Service",
+   "poster": "https://image.tmdb.org/t/p/w500/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1989",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0338348",
+   "type": "movie",
+   "name": "The Polar Express",
+   "poster": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0031381",
+   "type": "movie",
+   "name": "Gone with the Wind",
+   "poster": "https://image.tmdb.org/t/p/w500/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1939",
+   "genres": [
+    "Drama",
+    "War",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0317219",
+   "type": "movie",
+   "name": "Cars",
+   "poster": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2006",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt34477910",
+   "type": "movie",
+   "name": "Descendants: Wicked Wonderland",
+   "poster": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Fantasy",
+    "TV Movie",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0097757",
+   "type": "movie",
+   "name": "The Little Mermaid",
+   "poster": "https://image.tmdb.org/t/p/w500/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1989",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt20202136",
+   "type": "movie",
+   "name": "Descendants: The Rise of Red",
+   "poster": "https://image.tmdb.org/t/p/w500/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0120623",
+   "type": "movie",
+   "name": "A Bug's Life",
+   "poster": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1998",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1453405",
+   "type": "movie",
+   "name": "Monsters University",
+   "poster": "https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0059742",
+   "type": "movie",
+   "name": "The Sound of Music",
+   "poster": "https://image.tmdb.org/t/p/w500/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1965",
+   "genres": [
+    "Drama",
+    "Family",
+    "Music"
+   ]
+  },
+  {
+   "id": "tt0120855",
+   "type": "movie",
+   "name": "Tarzan",
+   "poster": "https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0876563",
+   "type": "movie",
+   "name": "Ponyo",
+   "poster": "https://image.tmdb.org/t/p/w500/yp8vEZflGynlEylxEesbYasc06i.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0042332",
+   "type": "movie",
+   "name": "Cinderella",
+   "poster": "https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1950",
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Animation"
+   ]
+  },
+  {
+   "id": "tt0067992",
+   "type": "movie",
+   "name": "Willy Wonka & the Chocolate Factory",
+   "poster": "https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1971",
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0116583",
+   "type": "movie",
+   "name": "The Hunchback of Notre Dame",
+   "poster": "https://image.tmdb.org/t/p/w500/dmMBtXuFzZzLYgeQXkOkg98w2Ak.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1996",
+   "genres": [
+    "Drama",
+    "Animation",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0048280",
+   "type": "movie",
+   "name": "Lady and the Tramp",
+   "poster": "https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1955",
+   "genres": [
+    "Animation",
+    "Family",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0043274",
+   "type": "movie",
+   "name": "Alice in Wonderland",
+   "poster": "https://image.tmdb.org/t/p/w500/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1951",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0166813",
+   "type": "movie",
+   "name": "Spirit: Stallion of the Cimarron",
+   "poster": "https://image.tmdb.org/t/p/w500/bBEkKDQFianNYwGWR7gJfPVakmG.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0046183",
+   "type": "movie",
+   "name": "Peter Pan",
+   "poster": "https://image.tmdb.org/t/p/w500/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1953",
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0053285",
+   "type": "movie",
+   "name": "Sleeping Beauty",
+   "poster": "https://image.tmdb.org/t/p/w500/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1959",
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0371606",
+   "type": "movie",
+   "name": "Chicken Little",
+   "poster": "https://image.tmdb.org/t/p/w500/87FpA4b90eTaw3U6zmCNikoPLir.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1028532",
+   "type": "movie",
+   "name": "Hachi: A Dog's Tale",
+   "poster": "https://image.tmdb.org/t/p/w500/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0032910",
+   "type": "movie",
+   "name": "Pinocchio",
+   "poster": "https://image.tmdb.org/t/p/w500/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1940",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0063442",
+   "type": "movie",
+   "name": "Planet of the Apes",
+   "poster": "https://image.tmdb.org/t/p/w500/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1968",
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0396555",
+   "type": "movie",
+   "name": "Meet the Robinsons",
+   "poster": "https://image.tmdb.org/t/p/w500/naya0zF4kT401Sx15AtwB9vpcJr.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0046250",
+   "type": "movie",
+   "name": "Roman Holiday",
+   "poster": "https://image.tmdb.org/t/p/w500/8lI9dmz1RH20FAqltkGelY1v4BE.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1953",
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt1436562",
+   "type": "movie",
+   "name": "Rio",
+   "poster": "https://image.tmdb.org/t/p/w500/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0247638",
+   "type": "movie",
+   "name": "The Princess Diaries",
+   "poster": "https://image.tmdb.org/t/p/w500/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0120630",
+   "type": "movie",
+   "name": "Chicken Run",
+   "poster": "https://image.tmdb.org/t/p/w500/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2000",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0389790",
+   "type": "movie",
+   "name": "Bee Movie",
+   "poster": "https://image.tmdb.org/t/p/w500/tX2mgKFUkzFMZingSVD4vioZNz2.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Family",
+    "Animation",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0115433",
+   "type": "movie",
+   "name": "101 Dalmatians",
+   "poster": "https://image.tmdb.org/t/p/w500/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1996",
+   "genres": [
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0113824",
+   "type": "movie",
+   "name": "Whisper of the Heart",
+   "poster": "https://image.tmdb.org/t/p/w500/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1995",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0052618",
+   "type": "movie",
+   "name": "Ben-Hur",
+   "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1959",
+   "genres": [
+    "History",
+    "Drama",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0312004",
+   "type": "movie",
+   "name": "Wallace & Gromit: The Curse of the Were-Rabbit",
+   "poster": "https://image.tmdb.org/t/p/w500/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0058331",
+   "type": "movie",
+   "name": "Mary Poppins",
+   "poster": "https://image.tmdb.org/t/p/w500/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1964",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0451079",
+   "type": "movie",
+   "name": "Horton Hears a Who!",
+   "poster": "https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0049833",
+   "type": "movie",
+   "name": "The Ten Commandments",
+   "poster": "https://image.tmdb.org/t/p/w500/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1956",
+   "genres": [
+    "Drama",
+    "History"
+   ]
+  },
+  {
+   "id": "tt0114148",
+   "type": "movie",
+   "name": "Pocahontas",
+   "poster": "https://image.tmdb.org/t/p/w500/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1995",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0045152",
+   "type": "movie",
+   "name": "Singin' in the Rain",
+   "poster": "https://image.tmdb.org/t/p/w500/zjrpWniKbzu0zFR5sUI1Ptdfl9y.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1952",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1568921",
+   "type": "movie",
+   "name": "Arrietty",
+   "poster": "https://image.tmdb.org/t/p/w500/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0061852",
+   "type": "movie",
+   "name": "The Jungle Book",
+   "poster": "https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1967",
+   "genres": [
+    "Family",
+    "Animation",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0065421",
+   "type": "movie",
+   "name": "The Aristocats",
+   "poster": "https://image.tmdb.org/t/p/w500/aOWs5XMJEABN6SKCTJBCoeD1kCA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1970",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0034492",
+   "type": "movie",
+   "name": "Bambi",
+   "poster": "https://image.tmdb.org/t/p/w500/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1942",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0328880",
+   "type": "movie",
+   "name": "Brother Bear",
+   "poster": "https://image.tmdb.org/t/p/w500/otptPbEY0vBostmo95xwiiumMJm.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0347618",
+   "type": "movie",
+   "name": "The Cat Returns",
+   "poster": "https://image.tmdb.org/t/p/w500/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Animation"
+   ]
+  },
+  {
+   "id": "tt7214954",
+   "type": "movie",
+   "name": "Luck",
+   "poster": "https://image.tmdb.org/t/p/w500/1HOYvwGFioUFL58UVvDRG6beEDm.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2022",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0082406",
+   "type": "movie",
+   "name": "The Fox and the Hound",
+   "poster": "https://image.tmdb.org/t/p/w500/bbPEYD1z1DN13UJMr9sjhMh8DJx.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1981",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0095489",
+   "type": "movie",
+   "name": "The Land Before Time",
+   "poster": "https://image.tmdb.org/t/p/w500/7phV1ETZnQrLsEeuk4hNeceEl25.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1988",
+   "genres": [
+    "Family",
+    "Animation",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt42839367",
+   "type": "movie",
+   "name": "Snoopy Presents: There's No Place Like Home, Snoopy",
+   "poster": "https://image.tmdb.org/t/p/w500/YbC4SlzE030BgxWdKDdlatMh5W.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Animation",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0120131",
+   "type": "movie",
+   "name": "The Lion King II: Simba's Pride",
+   "poster": "https://image.tmdb.org/t/p/w500/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1998",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0055254",
+   "type": "movie",
+   "name": "One Hundred and One Dalmatians",
+   "poster": "https://image.tmdb.org/t/p/w500/kSlYq6FrBUviGSEh8v4L9nrSnBT.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1961",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0033563",
+   "type": "movie",
+   "name": "Dumbo",
+   "poster": "https://image.tmdb.org/t/p/w500/hKDdllslMtsU9JixAv5HR9biXlp.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1941",
+   "genres": [
+    "Animation",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0118617",
+   "type": "movie",
+   "name": "Anastasia",
+   "poster": "https://image.tmdb.org/t/p/w500/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1997",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0027977",
+   "type": "movie",
+   "name": "Modern Times",
+   "poster": "https://image.tmdb.org/t/p/w500/AthaPakkuCLROdKxtRbKWclkDBK.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1936",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt11832046",
+   "type": "movie",
+   "name": "PAW Patrol: The Movie",
+   "poster": "https://image.tmdb.org/t/p/w500/jXavWyam2VPR6bOhLwwuP3K2Hw4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2021",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+   ]
+  },
+  {
+   "id": "tt0056937",
+   "type": "movie",
+   "name": "Cleopatra",
+   "poster": "https://image.tmdb.org/t/p/w500/bj7rUGUewofA9cpHt1h36gvDFfy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1963",
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt32214143",
+   "type": "movie",
+   "name": "Gabby's Dollhouse: The Movie",
+   "poster": "https://image.tmdb.org/t/p/w500/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0079945",
+   "type": "movie",
+   "name": "Star Trek: The Motion Picture",
+   "poster": "https://image.tmdb.org/t/p/w500/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1979",
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt3440298",
+   "type": "movie",
+   "name": "Descendants",
+   "poster": "https://image.tmdb.org/t/p/w500/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Family",
+    "Adventure",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0368933",
+   "type": "movie",
+   "name": "The Princess Diaries 2: Royal Engagement",
+   "poster": "https://image.tmdb.org/t/p/w500/upJOyrxxSIxlSZC7KEqJfB1vlGl.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt2357291",
+   "type": "movie",
+   "name": "Rio 2",
+   "poster": "https://image.tmdb.org/t/p/w500/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0070608",
+   "type": "movie",
+   "name": "Robin Hood",
+   "poster": "https://image.tmdb.org/t/p/w500/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1973",
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0288441",
+   "type": "movie",
+   "name": "Barbie in the Nutcracker",
+   "poster": "https://image.tmdb.org/t/p/w500/eIkXJggVmzN4MyPgJ2kDjOy9lmQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Animation",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt2452042",
+   "type": "movie",
+   "name": "The Peanuts Movie",
+   "poster": "https://image.tmdb.org/t/p/w500/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt5097410",
+   "type": "movie",
+   "name": "Noelle",
+   "poster": "https://image.tmdb.org/t/p/w500/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Family",
+    "Comedy",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt1615918",
+   "type": "movie",
+   "name": "Alvin and the Chipmunks: Chipwrecked",
+   "poster": "https://image.tmdb.org/t/p/w500/npOXWVoZyl8UrF2wtByHtfmsWSX.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0318403",
+   "type": "movie",
+   "name": "The Lion King 1\u00bd",
+   "poster": "https://image.tmdb.org/t/p/w500/u2hN0WT7Dz46HfhQbr6uzSYfVW4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt3120408",
+   "type": "movie",
+   "name": "Tinker Bell and the Legend of the NeverBeast",
+   "poster": "https://image.tmdb.org/t/p/w500/3S0mmmpYStB3GqodRghcfOt81wQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0291082",
+   "type": "movie",
+   "name": "Cinderella II: Dreams Come True",
+   "poster": "https://image.tmdb.org/t/p/w500/kEDbtKhZsqPo7ypCzoz3fkq73Pc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Family",
+    "Animation",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0091149",
+   "type": "movie",
+   "name": "The Great Mouse Detective",
+   "poster": "https://image.tmdb.org/t/p/w500/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1986",
+   "genres": [
+    "Animation",
+    "Family",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0453451",
+   "type": "movie",
+   "name": "Mr. Bean's Holiday",
+   "poster": "https://image.tmdb.org/t/p/w500/bSSx9Sq6irWwN9NTQmoT9KE8kXn.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0032455",
+   "type": "movie",
+   "name": "Fantasia",
+   "poster": "https://image.tmdb.org/t/p/w500/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1940",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0112431",
+   "type": "movie",
+   "name": "Babe",
+   "poster": "https://image.tmdb.org/t/p/w500/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1995",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0962726",
+   "type": "movie",
+   "name": "High School Musical 3: Senior Year",
+   "poster": "https://image.tmdb.org/t/p/w500/aq2o1wT0crBOTxof36O6KTyjpgE.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt1449283",
+   "type": "movie",
+   "name": "Winnie the Pooh",
+   "poster": "https://image.tmdb.org/t/p/w500/xlFs85nq62jeR4a9iHNGB113m6x.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0426955",
+   "type": "movie",
+   "name": "Barbie as The Princess & the Pauper",
+   "poster": "https://image.tmdb.org/t/p/w500/xHYsUwUe4MaNc6mbNBGTkqZSnPk.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1217213",
+   "type": "movie",
+   "name": "Secret of the Wings",
+   "poster": "https://image.tmdb.org/t/p/w500/aPudKEzwwmwc5lS8sdxvG3WX86t.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ]
+  }
+ ]
+}

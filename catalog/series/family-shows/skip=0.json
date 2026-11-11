@@ -1,0 +1,525 @@
+{
+ "metas": [
+  {
+   "id": "tt4083422",
+   "type": "series",
+   "name": "Doraemon",
+   "poster": "https://image.tmdb.org/t/p/w500/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt2771780",
+   "type": "series",
+   "name": "Teen Titans Go!",
+   "poster": "https://image.tmdb.org/t/p/w500/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0106004",
+   "type": "series",
+   "name": "Frasier",
+   "poster": "https://image.tmdb.org/t/p/w500/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1993",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt6226232",
+   "type": "series",
+   "name": "Young Sheldon",
+   "poster": "https://image.tmdb.org/t/p/w500/42dEkEZRVy1x36JH2LP12k6c9A.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2017",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0069576",
+   "type": "series",
+   "name": "Doraemon",
+   "poster": "https://image.tmdb.org/t/p/w500/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1979",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0463398",
+   "type": "series",
+   "name": "Dancing with the Stars",
+   "poster": "https://image.tmdb.org/t/p/w500/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Reality",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0118375",
+   "type": "series",
+   "name": "King of the Hill",
+   "poster": "https://image.tmdb.org/t/p/w500/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1997",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0052451",
+   "type": "series",
+   "name": "Bonanza",
+   "poster": "https://image.tmdb.org/t/p/w500/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1959",
+   "genres": [
+    "Western",
+    "Action & Adventure",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt5622316",
+   "type": "series",
+   "name": "The Chosen",
+   "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Action & Adventure",
+    "Family",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt3559124",
+   "type": "series",
+   "name": "The Tom and Jerry Show",
+   "poster": "https://image.tmdb.org/t/p/w500/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Family",
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt35854736",
+   "type": "series",
+   "name": "Avatar: Seven Havens",
+   "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0484918",
+   "type": "series",
+   "name": "Ulice",
+   "poster": "https://image.tmdb.org/t/p/w500/zBEHcmVe87YjfI8SmIYkiDtX35I.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0106080",
+   "type": "series",
+   "name": "The Nanny",
+   "poster": "https://image.tmdb.org/t/p/w500/4syShXMjaPAP3mG81ekhruv94sd.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1993",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt1094229",
+   "type": "series",
+   "name": "Heartland",
+   "poster": "https://image.tmdb.org/t/p/w500/osAYIqIGtnVpqz4FDdGjCezE11z.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Family",
+    "Drama",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0071007",
+   "type": "series",
+   "name": "Little House on the Prairie",
+   "poster": "https://image.tmdb.org/t/p/w500/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1974",
+   "genres": [
+    "Western",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0105986",
+   "type": "series",
+   "name": "Diagnosis: Murder",
+   "poster": "https://image.tmdb.org/t/p/w500/5yhozeY2KgYXQQE9kfbiIyypYiI.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1993",
+   "genres": [
+    "Drama",
+    "Family",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0165598",
+   "type": "series",
+   "name": "That '70s Show",
+   "poster": "https://image.tmdb.org/t/p/w500/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1998",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0050073",
+   "type": "series",
+   "name": "Wagon Train",
+   "poster": "https://image.tmdb.org/t/p/w500/csC6kMTKWmOcy9nKZEgdwd7Frb9.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1957",
+   "genres": [
+    "Western",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0088580",
+   "type": "series",
+   "name": "Neighbours",
+   "poster": "https://image.tmdb.org/t/p/w500/bXY78bQsKCIiD17Sr6yO4wLIXqS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1985",
+   "genres": [
+    "Soap",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt8543208",
+   "type": "series",
+   "name": "Looney Tunes Cartoons",
+   "poster": "https://image.tmdb.org/t/p/w500/2pDQfZMJq95hckoaez9ou93Hmqy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2020",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0086687",
+   "type": "series",
+   "name": "The Cosby Show",
+   "poster": "https://image.tmdb.org/t/p/w500/dc6sR5FWN4uX8fZENq2UTsrSg3x.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1984",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt9018736",
+   "type": "series",
+   "name": "Avatar: The Last Airbender",
+   "poster": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0051257",
+   "type": "series",
+   "name": "Blue Peter",
+   "poster": "https://image.tmdb.org/t/p/w500/qONA6QgXZsqwDNzqv6sLLMicJnU.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1958",
+   "genres": [
+    "Family"
+   ]
+  },
+  {
+   "id": "tt3061046",
+   "type": "series",
+   "name": "Steven Universe",
+   "poster": "https://image.tmdb.org/t/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0053525",
+   "type": "series",
+   "name": "My Three Sons",
+   "poster": "https://image.tmdb.org/t/p/w500/2BGjuEKFtq43P3HeYSPWcX9E5et.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1960",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0115082",
+   "type": "series",
+   "name": "3rd Rock from the Sun",
+   "poster": "https://image.tmdb.org/t/p/w500/sUB4lZghNnwQywKqgjIfJsyBqI2.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1996",
+   "genres": [
+    "Family",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0051308",
+   "type": "series",
+   "name": "The Rifleman",
+   "poster": "https://image.tmdb.org/t/p/w500/tYf5Sc83chWG2nBlo5xKdpBBwlI.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1958",
+   "genres": [
+    "Action & Adventure",
+    "Western",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0094582",
+   "type": "series",
+   "name": "The Wonder Years",
+   "poster": "https://image.tmdb.org/t/p/w500/tkaduqdhFrF1vp8L55OJfB5jw8Z.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1988",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0083413",
+   "type": "series",
+   "name": "Family Ties",
+   "poster": "https://image.tmdb.org/t/p/w500/vxERANdozlMKgl7VqGxbAvZ6u1O.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1982",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt3042608",
+   "type": "series",
+   "name": "Uncle Grandpa",
+   "poster": "https://image.tmdb.org/t/p/w500/zLVOgigPMsd2hkwmcY5AqNhqgcn.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Comedy",
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0178132",
+   "type": "series",
+   "name": "Father Matteo",
+   "poster": "https://image.tmdb.org/t/p/w500/eh5ldhghLRmwkkWyuJZDXJiptcP.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2000",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0083470",
+   "type": "series",
+   "name": "Remington Steele",
+   "poster": "https://image.tmdb.org/t/p/w500/3UGDVrdwavyU0WIddhZf4eov6yv.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1982",
+   "genres": [
+    "Drama",
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt12324366",
+   "type": "series",
+   "name": "Percy Jackson and the Olympians",
+   "poster": "https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0108968",
+   "type": "series",
+   "name": "Touched by an Angel",
+   "poster": "https://image.tmdb.org/t/p/w500/jiSv0xNx6MGhAFfv05Ov7DgDELJ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1994",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0051267",
+   "type": "series",
+   "name": "The Donna Reed Show",
+   "poster": "https://image.tmdb.org/t/p/w500/emKpcFHWRosNoQQGyOU0lSn8yAM.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1958",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt3986586",
+   "type": "series",
+   "name": "Fuller House",
+   "poster": "https://image.tmdb.org/t/p/w500/n4ZZB471d2UueUFEaOWnKetCxnY.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0092339",
+   "type": "series",
+   "name": "A Different World",
+   "poster": "https://image.tmdb.org/t/p/w500/v7fuifcJjcqQxAsOjPviupcmFIZ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1987",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0101205",
+   "type": "series",
+   "name": "Step by Step",
+   "poster": "https://image.tmdb.org/t/p/w500/4XMxYOxNvxEkfxUKhs8AoGBQiVD.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1991",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0086730",
+   "type": "series",
+   "name": "Highway to Heaven",
+   "poster": "https://image.tmdb.org/t/p/w500/mcAqVE5RY2KBA9JYC1wqb37wquB.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1984",
+   "genres": [
+    "Family",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt10436228",
+   "type": "series",
+   "name": "Jurassic World Camp Cretaceous",
+   "poster": "https://image.tmdb.org/t/p/w500/pwte1p4ZySI1qAVSVdSTRKjuIAa.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2020",
+   "genres": [
+    "Animation",
+    "Kids",
+    "Action & Adventure"
+   ]
+  },
+  {
+   "id": "tt0072519",
+   "type": "series",
+   "name": "The Jeffersons",
+   "poster": "https://image.tmdb.org/t/p/w500/iFjIaWr9qDKMLnnh8tHwO6Tzp6D.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1975",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  }
+ ]
+}
