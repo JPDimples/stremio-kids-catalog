@@ -520,6 +520,524 @@
     "Comedy",
     "Family"
    ]
+  },
+  {
+   "id": "tt0098800",
+   "type": "series",
+   "name": "The Fresh Prince of Bel-Air",
+   "poster": "https://image.tmdb.org/t/p/w500/fJXzwxCVr2TEkhhKRKcih9o5DYK.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1990",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0108927",
+   "type": "series",
+   "name": "Sister, Sister",
+   "poster": "https://image.tmdb.org/t/p/w500/fzJHEbfgRM5uJaon5AVxwJxFMSF.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1994",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Kids"
+   ]
+  },
+  {
+   "id": "tt0047706",
+   "type": "series",
+   "name": "The Adventures of Robin Hood",
+   "poster": "https://image.tmdb.org/t/p/w500/pq9OFrz6ka9BHYQJgnHu0MOuCZf.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1955",
+   "genres": [
+    "Action & Adventure",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt1765510",
+   "type": "series",
+   "name": "R. L. Stine's The Haunting Hour",
+   "poster": "https://image.tmdb.org/t/p/w500/keZqyr8EQLCjHejuZ3U4HAopxrY.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Family",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt1726839",
+   "type": "series",
+   "name": "The Looney Tunes Show",
+   "poster": "https://image.tmdb.org/t/p/w500/bZWdejWhkgJmXjdQ70DjiJS7v7O.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt8688814",
+   "type": "series",
+   "name": "The Dragon Prince",
+   "poster": "https://image.tmdb.org/t/p/w500/d7PIRa6ez7ZEl9D4JUrnSsmcnVD.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0491603",
+   "type": "series",
+   "name": "H2O: Just Add Water",
+   "poster": "https://image.tmdb.org/t/p/w500/2z4IKatNXHSDIC2XJgedTS4dsEo.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2006",
+   "genres": [
+    "Drama",
+    "Family",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0115221",
+   "type": "series",
+   "name": "The Jamie Foxx Show",
+   "poster": "https://image.tmdb.org/t/p/w500/75rRmOm7jfGdxhYeg36mgnetYJS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1996",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0775405",
+   "type": "series",
+   "name": "WWE Saturday Night's Main Event",
+   "poster": "https://image.tmdb.org/t/p/w500/fHC5OJt0lQEGqRYA9noy4u7xgVH.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1985",
+   "genres": [
+    "Drama",
+    "Family",
+    "Action & Adventure"
+   ]
+  },
+  {
+   "id": "tt0101050",
+   "type": "series",
+   "name": "Blossom",
+   "poster": "https://image.tmdb.org/t/p/w500/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1990",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0255734",
+   "type": "series",
+   "name": "Grounded for Life",
+   "poster": "https://image.tmdb.org/t/p/w500/sbcNGnpZsvZUuyHlGZ5LBbaEH6m.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1400819",
+   "type": "series",
+   "name": "Horrible Histories",
+   "poster": "https://image.tmdb.org/t/p/w500/fwj7zkWHtveXUaB9cwrQIMvmgeQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0319930",
+   "type": "series",
+   "name": "American Dreams",
+   "poster": "https://image.tmdb.org/t/p/w500/pr3WcVn1i7mKwae84MCOW0vpLYc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt4684808",
+   "type": "series",
+   "name": "Story of a Mermaid",
+   "poster": "https://image.tmdb.org/t/p/w500/6fGAljQDfHDbYNKSAkUZ5RQVYLJ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt12299696",
+   "type": "series",
+   "name": "Tokyo Mew Mew New",
+   "poster": "https://image.tmdb.org/t/p/w500/mTMyfBtlFB8mYs5vxa5CoIP4m2i.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2022",
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0077053",
+   "type": "series",
+   "name": "Mork & Mindy",
+   "poster": "https://image.tmdb.org/t/p/w500/6qZsNHd5Kafc9AMQyKR5W6RRqIf.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1978",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0065333",
+   "type": "series",
+   "name": "The Partridge Family",
+   "poster": "https://image.tmdb.org/t/p/w500/9NMfghSXtPjOOIpbS7oQPQlkMS4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1970",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0329934",
+   "type": "series",
+   "name": "Sue Thomas: F.B.Eye",
+   "poster": "https://image.tmdb.org/t/p/w500/5tHDB8vSOk6WB0rFufFUILxBKZz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Family",
+    "Drama",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt0088478",
+   "type": "series",
+   "name": "Amazing Stories",
+   "poster": "https://image.tmdb.org/t/p/w500/66Utyft9WHPQJSU7f7MbEB72dkc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1985",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt1441577",
+   "type": "series",
+   "name": "Pretty Cure",
+   "poster": "https://image.tmdb.org/t/p/w500/f98O7QVHpOlB8ySyN1vVq1ttHHe.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0098900",
+   "type": "series",
+   "name": "Road to Avonlea",
+   "poster": "https://image.tmdb.org/t/p/w500/2392PwVEfsMOMgYD5q0KaRWbjhP.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1990",
+   "genres": [
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0052461",
+   "type": "series",
+   "name": "Dennis the Menace",
+   "poster": "https://image.tmdb.org/t/p/w500/1zpYhxqz9SUGMB3Q9HnyKTh31E4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1959",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0273855",
+   "type": "series",
+   "name": "My Wife and Kids",
+   "poster": "https://image.tmdb.org/t/p/w500/eyQsN8bU27fdIs2D66gFmcIo0dM.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt4415288",
+   "type": "series",
+   "name": "Mermaid Melody: Pichi Pichi Pitch",
+   "poster": "https://image.tmdb.org/t/p/w500/jwDEHBO48GK8bL6pkHoQfgNyzHk.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Animation",
+    "Kids",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt4834206",
+   "type": "series",
+   "name": "A Series of Unfortunate Events",
+   "poster": "https://image.tmdb.org/t/p/w500/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2017",
+   "genres": [
+    "Action & Adventure",
+    "Family",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0429466",
+   "type": "series",
+   "name": "Who Do You Think You Are?",
+   "poster": "https://image.tmdb.org/t/p/w500/v7vzsmEDVDzUgEuiMAMRdyh0abW.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Documentary",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt3718778",
+   "type": "series",
+   "name": "Over the Garden Wall",
+   "poster": "https://image.tmdb.org/t/p/w500/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Animation"
+   ]
+  },
+  {
+   "id": "tt1307083",
+   "type": "series",
+   "name": "19 Kids and Counting",
+   "poster": "https://image.tmdb.org/t/p/w500/2lH5OyY3v5nvRbPm8Z1bifgJQkP.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Reality",
+    "Documentary",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt8510382",
+   "type": "series",
+   "name": "High School Musical: The Musical: The Series",
+   "poster": "https://image.tmdb.org/t/p/w500/2KmbFkZD42I8Q7IZy4WxmZm9W6O.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Family",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt1024810",
+   "type": "series",
+   "name": "The Boarding School",
+   "poster": "https://image.tmdb.org/t/p/w500/eijsq0ZTpQkjMXNkTI1R2v0hNjF.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt8456094",
+   "type": "series",
+   "name": "Scooby-Doo and Guess Who?",
+   "poster": "https://image.tmdb.org/t/p/w500/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt5014882",
+   "type": "series",
+   "name": "The Durrells",
+   "poster": "https://image.tmdb.org/t/p/w500/sgZiuQ9PMeyHU7xMaIctwRu4SLa.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0362404",
+   "type": "series",
+   "name": "All of Us",
+   "poster": "https://image.tmdb.org/t/p/w500/5ydBzxhOhJKI8sGtYKuMP7wEele.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0439341",
+   "type": "series",
+   "name": "6teen",
+   "poster": "https://image.tmdb.org/t/p/w500/w5xyIimhzKqM8Pgjp9fOqwgDIQL.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Family",
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0996011",
+   "type": "series",
+   "name": "Una familia de diez",
+   "poster": "https://image.tmdb.org/t/p/w500/ds2t2T4dFGiCFo2PeP4hlwt9NRD.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Kids"
+   ]
+  },
+  {
+   "id": "tt1286677",
+   "type": "series",
+   "name": "Forbidden Love",
+   "poster": "https://image.tmdb.org/t/p/w500/xHulNzEqtgkTuwrRorBRXdGzHML.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Family",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt8305258",
+   "type": "series",
+   "name": "America Says",
+   "poster": "https://image.tmdb.org/t/p/w500/cNZTNrWxc02moLzn3NYZqowyJdU.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Family",
+    "Reality"
+   ]
+  },
+  {
+   "id": "tt0077013",
+   "type": "series",
+   "name": "Future Boy Conan",
+   "poster": "https://image.tmdb.org/t/p/w500/tmlhwdTBA264iQF2Us5vWdKz1fE.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1978",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt7150060",
+   "type": "series",
+   "name": "Find Me in Paris",
+   "poster": "https://image.tmdb.org/t/p/w500/uOTYMzTlXFbWDZCxxc0vX9CvBsl.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt9628244",
+   "type": "series",
+   "name": "DC Super Hero Girls",
+   "poster": "https://image.tmdb.org/t/p/w500/sjjyQ0OKUnUTzJpLi5CDOzZCE88.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt9860690",
+   "type": "series",
+   "name": "Gremlins: Secrets of the Mogwai",
+   "poster": "https://image.tmdb.org/t/p/w500/fkkBQsWgRX7OFxzV0jtCM88a0Xq.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Animation"
+   ]
   }
  ]
 }
