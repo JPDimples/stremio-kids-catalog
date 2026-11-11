@@ -40,8 +40,8 @@ MOVIE_CATALOGS = [
     ("family-movies", "PG"),
 ]
 TV_CATALOGS = [
-    ("kids-shows", "10762", {"TV-Y", "TV-Y7", "TV-G"}),
-    ("family-shows", "10751", {"TV-PG"}),
+    ("kids-shows", ["10762"], {"TV-Y", "TV-Y7", "TV-G"}),
+    ("family-shows", ["10751", "10762"], {"TV-PG"}),
 ]
 
 
@@ -133,31 +133,32 @@ def build_movies(catalog_id, certification):
     return metas
 
 
-def build_tv(catalog_id, genre_id, allowed_ratings):
+def build_tv(catalog_id, genre_ids, allowed_ratings):
     metas, seen = [], set()
-    page = 1
-    while len(metas) < TARGET and page <= 30:
-        res = get_json("/discover/tv", {
-            "with_genres": genre_id,
-            "sort_by": "popularity.desc",
-            "include_adult": "false",
-            "page": page,
-        })
-        rate_limited()
-        for item in res.get("results", []):
-            if len(metas) >= TARGET:
-                break
-            d = get_json(f"/tv/{item['id']}", {
-                "append_to_response": "external_ids,content_ratings",
+    for genre_id in genre_ids:
+        page = 1
+        while len(metas) < TARGET and page <= 30:
+            res = get_json("/discover/tv", {
+                "with_genres": genre_id,
+                "sort_by": "popularity.desc",
+                "include_adult": "false",
+                "page": page,
             })
             rate_limited()
-            if us_tv_rating(d) not in allowed_ratings:
-                continue
-            m = tv_meta(d)
-            if m and m["id"] not in seen:
-                seen.add(m["id"])
-                metas.append(m)
-        page += 1
+            for item in res.get("results", []):
+                if len(metas) >= TARGET:
+                    break
+                d = get_json(f"/tv/{item['id']}", {
+                    "append_to_response": "external_ids,content_ratings",
+                })
+                rate_limited()
+                if us_tv_rating(d) not in allowed_ratings:
+                    continue
+                m = tv_meta(d)
+                if m and m["id"] not in seen:
+                    seen.add(m["id"])
+                    metas.append(m)
+            page += 1
     return metas
 
 
