@@ -136,7 +136,7 @@ def build_movies(catalog_id, certification):
 def build_tv(catalog_id, genre_id, allowed_ratings):
     metas, seen = [], set()
     page = 1
-    while len(metas) < TARGET and page <= 10:
+    while len(metas) < TARGET and page <= 30:
         res = get_json("/discover/tv", {
             "with_genres": genre_id,
             "sort_by": "popularity.desc",
